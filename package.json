@@ -1,0 +1,43 @@
+{
+  "name": "officiisquis",
+  "version": "1.0.0",
+  "description": "Typed ssml builder",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RamiroWuckert/officiisquis.git"
+  },
+  "keywords": [
+    "molestiae",
+    "library",
+    "ssml",
+    "builder",
+    "dicta"
+  ],
+  "author": "DemetriusMarks",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.6",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "dotup-ts-git-wrapper": "^1.0.0",
+    "gulp": "^4.0.0",
+    "gulp-tslint": "^8.1.4",
+    "gulp-typescript": "^5.0.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-typedoc": "^2.2.2",
+    "gulp-mocha": "^6.0.0",
+    "del": "^4.0.0",
+    "cross-spawn": "^6.0.5",
+    "gh-pages": "^2.0.1",
+    "rimraf": "^2.6.3",
+    "ts-node": "^8.0.3",
+    "typedoc": "^0.14.2",
+    "typescript": "^3.3.3",
+    "tslint": "^5.14.0",
+    "tslint-microsoft-contrib": "^6.1.0"
+  }
+}
